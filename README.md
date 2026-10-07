@@ -1,1 +1,1 @@
-Gestor de la Asministración Regional 
+Gestor de la Administración Regional 
